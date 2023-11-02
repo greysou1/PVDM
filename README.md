@@ -28,3 +28,7 @@ Person image synthesis is the task of generating realistic images of humans in v
   <td align="center"><img src="assets/pose_output_latest.gif" width="100%" height="auto" /></td>
 </tr>
 </table>
+
+### TO-DO
+- [ ] Release PVDM trained models
+- [ ] Release PVDM demo Jupyter notebook
